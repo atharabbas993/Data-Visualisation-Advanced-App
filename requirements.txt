@@ -1,6 +1,5 @@
 streamlit==1.26.0
 pandas==2.0.3
-ydata-profiling==4.6.1
 seaborn==0.12.2
 matplotlib==3.7.1
 plotly==5.18.0
