@@ -50,3 +50,4 @@ pytz-deprecation-shim==0.1.0.post0
 PyWavelets==1.8.0
 seaborn==0.13.2
 ydata-profiling>=4.7.0
+setuptools>=68.0.0
