@@ -34,7 +34,7 @@ packaging==23.2
 pandas==2.2.3
 patsy==1.0.1
 phik==0.12.4
-Pillow==9.5.0
+Pillow==10.0.0
 plotly==6.0.0
 protobuf==4.25.6
 pyarrow==19.0.1
