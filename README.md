@@ -53,7 +53,7 @@ streamlit run app.py
 ## Usage
 
 ### 🌐 Live Demo
-Check out the live app here: [Advanced Data Visualization App](https://data-visualisation-advanced-app-mxzhsms8bkh2ajvymfpcku.streamlit.app)
+Check out the live app here: [Advanced Data Visualization App](https://data-visualisation-advanced-app-athar993.streamlit.app/)
 1. Open the application in a browser.
 2. Upload a CSV file.
 3. Explore the dataset using various visualization tools.
